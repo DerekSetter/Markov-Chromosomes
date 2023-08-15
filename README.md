@@ -1,5 +1,5 @@
 # Markov-Chromosomes
-The supporting information pertaining to the paper "Hookups and Breakups: Markov models for karyotype evolution" by Derek Setter
+The supporting information pertaining to the paper "Breakups and Hookups: Markov models for karyotype evolution" by Derek Setter
 
 
 chromosome_simulation_code_soft_limit.py: contains the simulation code and auxiliary functions for the analysis. 
